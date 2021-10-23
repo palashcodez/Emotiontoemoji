@@ -1,0 +1,51 @@
+body
+{
+  font-family: 'Ephesis', cursive;
+font-family: 'Festive', cursive;
+font-family: 'IM Fell English SC', serif;
+  color: white;
+  background: #c0d3ff;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: black;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+
+#heading{
+  font-size: 30px;
+  font-family: 'Ephesis', cursive;
+font-family: 'Festive', cursive;
+font-family: 'IM Fell English SC', serif;
+  border-radius: 10px;
+  letter-spacing: 10.333335678231382941374913749137491739479124712783px;
+
+}
+
+label{
+  font-size: 25.001px;
+  font-family: 'Ephesis', cursive;
+font-family: 'Festive', cursive;
+font-family: 'IM Fell English SC', serif;
+  color:slategray;
+  padding: 6px;
+  border-radius: 10px;
+  background-color: whitesmoke;
+}
